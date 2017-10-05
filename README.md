@@ -10,3 +10,5 @@
 **21.09.2017** - SVM. [Практика](seminars/seminar_21.09.2017/minor-seminar-svm.ipynb)
 
 **28.09.2017** - Задача оптимизации. [Ноутбук](seminars/seminar_28.09.2017/minor-seminar-opt.ipynb)
+
+**05.10.2017** - Бустинг. [Ноутбук](seminars/seminar_05.10.2017/minor-seminar-boosting.ipynb)
