@@ -1,0 +1,1 @@
+docker run -d -p 8888:8888 -v "C:/Users/Artem/Documents/HSE/minor-aml-17/":/notebook -e KERAS_BACKEND=theano ermaker/keras-jupyter

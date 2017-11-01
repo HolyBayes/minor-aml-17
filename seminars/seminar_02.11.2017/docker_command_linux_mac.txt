@@ -1,0 +1,1 @@
+docker run -d -p 8888:8888 -v {pwd}:/notebook -e KERAS_BACKEND=theano ermaker/keras-jupyter
