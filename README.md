@@ -16,3 +16,5 @@
 **05.10.2017** - Бустинг. [Ноутбук](seminars/seminar_05.10.2017/minor-seminar-boosting.ipynb)
 
 **02.11.2017** - Нейросети. Введение в Keras. Свёрточные нейросети и классификация изображений. [Ноутбук](seminars/seminar_02.11.2017/minor-seminar-keras.ipynb)
+
+**09.11.2017** - Рекуррентные нейросети. [Ноутбук](seminars/seminar_09.11.2017/minor-seminar-rnn.ipynb)
