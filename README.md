@@ -20,4 +20,4 @@
 
 **09.11.2017** - Рекуррентные нейросети. [Ноутбук](seminars/seminar_09.11.2017/minor-seminar-rnn.ipynb)
 
-**23.11.2017** - Статистика. [Ноутбук](seminars/seminar_23.11.2017/minor-seminar-stat.ipynb)
+**23.11.2017** - Статистика. [Ноутбук](seminars/seminar_22.11.2017/minor-seminar-stat.ipynb)
