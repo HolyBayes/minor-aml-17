@@ -20,4 +20,6 @@
 
 **09.11.2017** - Рекуррентные нейросети. [Ноутбук](seminars/seminar_09.11.2017/minor-seminar-rnn.ipynb)
 
-**23.11.2017** - Статистика. [Ноутбук](seminars/seminar_22.11.2017/minor-seminar-stat.ipynb)
+**23.11.2017** - Статистика. Распределения, доверительные интервалы, бутстреп [Ноутбук](seminars/seminar_22.11.2017/minor-seminar-stat.ipynb)
+
+**07.12.2017** - Статистика. Проверка статистических гипотез ([Ноутбук](seminars/seminar_07.12.2017/minor-seminar-hypo.ipynb)). Корреляция Пирсона ([Ноутбук](seminars/seminar_07.12.2017/minor-seminar-corr.ipynb))
